@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @catarovanca
 - 👀 I’m interested in it software
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on it industry
 - 📫 How to reach me catarovanca@yahoo.ro
 
